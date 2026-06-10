@@ -1,4 +1,4 @@
-# 
+# Avançado Letta (MemGPT) extensões. Com engenharia de prompts e autonomia de agentes — otimizado para máximo desempenho e eficiência.
 
 
 
